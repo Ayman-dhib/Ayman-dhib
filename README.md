@@ -56,10 +56,46 @@ Final-year **software engineering student** at ISIMS Sfax (Tunisia). I build com
 <tr>
 <td width="50%" valign="top">
 
+#### [🤖 PrestaShop AI Chatbot](https://github.com/Ayman-dhib/prestashop-ai-chatbot)
+AI shopping assistant: semantic FAQ search (OpenAI embeddings + BM25), live product, promotion and order-status answers in French and English.
+
+`PHP` `OpenAI` `Embeddings` `BM25` `PrestaShop`
+
+</td>
+<td width="50%" valign="top">
+
+#### [🏙️ SmartCity](https://github.com/Ayman-dhib/smartcity)
+Urban maintenance platform where a GPT-4 scheduler assigns the best technician, with OSRM routing and real-time WebSocket alerts.
+
+`Spring Boot` `OpenAI GPT-4` `MongoDB` `React` `TypeScript`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 #### [💧 HydroControl](https://github.com/Ayman-dhib/hydrocontrol)
 Real-time supervision dashboard for a water pumping station: pumps, tank levels, generator, power supply and alarms, read live from a Siemens S7 PLC.
 
-`React` `Node.js` `Express` `WebSocket` `PostgreSQL` `Siemens S7`
+`React` `Node.js` `Express` `WebSocket` `PostgreSQL`
+
+</td>
+<td width="50%" valign="top">
+
+#### [🏢 HR & Equipment Management](https://github.com/Ayman-dhib/hr-equipment-management)
+Back office for employees, equipment and leave requests, with Sanctum token auth, admin/employee roles and chart dashboards.
+
+`Laravel` `React` `Tailwind CSS` `REST API`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### [🏋️ GymManager Pro](https://github.com/Ayman-dhib/gym-manager)
+Gym management app: members, payments, subscription expiry, revenue charts and automated emails.
+
+`React` `Node.js` `Prisma` `PostgreSQL` `Docker`
 
 </td>
 <td width="50%" valign="top">
@@ -67,7 +103,7 @@ Real-time supervision dashboard for a water pumping station: pumps, tank levels,
 #### [✅ TaskFlow](https://github.com/Ayman-dhib/taskflow)
 Project and task management app with users, favorites, recent projects, deadline tracking and light/dark themes.
 
-`Angular` `TypeScript` `Tailwind CSS` `RxJS` `Vitest`
+`Angular` `TypeScript` `Tailwind CSS` `RxJS`
 
 </td>
 </tr>
@@ -77,10 +113,7 @@ Project and task management app with users, favorites, recent projects, deadline
 <summary><b>More projects (repositories coming soon)</b></summary>
 
 - **AI form-filling browser extension**: RAG pipeline + Gemini API to understand and fill web forms
-- **E-commerce AI chatbot**: product recommendations and site navigation, OpenAI API, Docker
-- **SmartCity**: containerized full-stack platform (React, Node.js, Spring Boot, MongoDB, Docker)
 - **FIFA BI analysis**: KNIME ETL, star schema, Power BI dashboards
-- **Equipment & HR platform**: PostgreSQL, PHP API, React
 
 </details>
 
