@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=170&section=header&text=Ayman%20Dhib&fontColor=ffffff&fontSize=46&fontAlignY=35&desc=AI%20Engineering%20%C2%B7%20Full-Stack%20%26%20Android%20%C2%B7%20Data%20Architecture&descAlignY=58&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=170&section=header&text=Ayman%20Dhib&fontColor=ffffff&fontSize=46&fontAlignY=35&desc=AI%20Engineering%20%7C%20Full-Stack%20%7C%20Android%20%7C%20Data&descAlignY=58&descSize=16" width="100%"/>
 
 <a href="https://www.linkedin.com/in/ayman-dhib/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:aymandhib2018@gmail.com"><img src="https://img.shields.io/badge/Email-1f6feb?style=for-the-badge&logo=gmail&logoColor=white"/></a>
