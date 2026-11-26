@@ -22,12 +22,8 @@ Final-year **software engineering student** at ISIMS Sfax (Tunisia). I build com
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Ayman-dhib&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=2ea043&include_all_commits=true&count_private=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayman-dhib&layout=donut&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&langs_count=6"/>
-
-<img src="https://streak-stats.demolab.com?user=Ayman-dhib&theme=github-dark-blue&hide_border=true&background=0d1117" width="60%"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayman-dhib&bg_color=0d1117&color=58a6ff&line=2ea043&point=ffffff&area=true&hide_border=true" width="100%"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ayman-dhib&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=2ea043&hide=contribs&cache_seconds=21600"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayman-dhib&layout=donut&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&langs_count=8&hide=html,css,blade,smarty,batchfile&cache_seconds=21600"/>
 
 </div>
 
@@ -56,22 +52,12 @@ Final-year **software engineering student** at ISIMS Sfax (Tunisia). I build com
 <tr>
 <td width="50%" valign="top">
 
-#### [🧠 HelpBot: AI Form Assistant](https://github.com/Ayman-dhib/helpbot-ai-form-assistant)
-Chrome extension that understands complex web forms and fills them through a chat: Gemini LLM, embeddings and RAG over past cases.
-
-`Chrome Extension` `Gemini` `RAG` `Embeddings` `PHP`
-
-</td>
-<td width="50%" valign="top">
-
 #### [🤖 PrestaShop AI Chatbot](https://github.com/Ayman-dhib/prestashop-ai-chatbot)
 AI shopping assistant: semantic FAQ search (OpenAI embeddings + BM25), live product, promotion and order-status answers in French and English.
 
 `PHP` `OpenAI` `Embeddings` `BM25` `PrestaShop`
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 #### [🏙️ SmartCity](https://github.com/Ayman-dhib/smartcity)
@@ -80,6 +66,8 @@ Urban maintenance platform where a GPT-4 scheduler assigns the best technician, 
 `Spring Boot` `OpenAI GPT-4` `MongoDB` `React` `TypeScript`
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 #### [💧 HydroControl](https://github.com/Ayman-dhib/hydrocontrol)
@@ -88,8 +76,6 @@ Real-time supervision dashboard for a water pumping station: pumps, tank levels,
 `React` `Node.js` `Express` `WebSocket` `PostgreSQL`
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 #### [🏢 HR & Equipment Management](https://github.com/Ayman-dhib/hr-equipment-management)
@@ -98,6 +84,8 @@ Back office for employees, equipment and leave requests, with Sanctum token auth
 `Laravel` `React` `Tailwind CSS` `REST API`
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 #### [🏋️ GymManager Pro](https://github.com/Ayman-dhib/gym-manager)
@@ -106,8 +94,6 @@ Gym management app: members, payments, subscription expiry, revenue charts and a
 `React` `Node.js` `Prisma` `PostgreSQL` `Docker`
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 #### [✅ TaskFlow](https://github.com/Ayman-dhib/taskflow)
@@ -120,8 +106,9 @@ Project and task management app with users, favorites, recent projects, deadline
 </table>
 
 <details>
-<summary><b>More projects (repository coming soon)</b></summary>
+<summary><b>More projects (repositories coming soon)</b></summary>
 
+- **AI form-filling browser extension**: RAG pipeline + Gemini API to understand and fill web forms
 - **FIFA BI analysis**: KNIME ETL, star schema, Power BI dashboards
 
 </details>
